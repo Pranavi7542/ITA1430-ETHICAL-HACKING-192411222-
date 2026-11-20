@@ -1,0 +1,10 @@
+Aim:
+To capture and analyze network packets.
+Procedure:
+1.	Open Wireshark. 
+2.	Select network interface. 
+3.	Start packet capture. 
+4.	Generate network traffic. 
+5.	Analyze captured packets. 
+Result:
+Successfully captured and analyzed network traffic.
